@@ -1,3 +1,5 @@
+*Try out normal.cssCool if you want your website with more cool stuff. https://github.com/softorangetech200/normal.cssCool*
+
 # normal.css
 Normal.css - A CSS framework to make your web style normal.
 ## Install
